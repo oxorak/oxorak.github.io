@@ -36,7 +36,7 @@ https://oxorak.github.io/GitHubAudioPlayer/aliveandkicking.mp3
 1: Create a public repository on GitHub, and set up GitHub Pages (no need for an index.html)    
 2: Upload your music files on that repository.    
 3: Access your music files on the pages site, get the link, and copy that link (i.e https://oxorak.github.io/GitHubAudioPlayer/aliveandkicking.mp3)   
-4: Open the player (https://oxorak.github.io/GitHubAudioPlayer/index.html), click on the input field, and paste the link to your audio file into the box.   
+4: Open the player (http://spidyradioon.is-great.net/audioplayer.html), click on the input field, and paste the link to your audio file into the box.   
 5: Configure your settings, then hit Download.    
 6: Wait for the audio file to download, then press play.    
 
